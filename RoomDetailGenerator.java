@@ -4,6 +4,8 @@ package RoomDetailGeneratorPackage;
 
 import java.util.Scanner;
 
+//here's a change to test git
+
 public class RoomDetailGenerator {
 
 	public static void main(String[] args) {
