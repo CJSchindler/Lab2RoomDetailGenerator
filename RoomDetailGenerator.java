@@ -30,7 +30,6 @@ public class RoomDetailGenerator {
 		roomHeight = scnr.nextDouble();
 		
 		System.out.println("Area: " + roomLength * roomWidth);
-		System.out.printf("%.1f",roomLength);
 		System.out.println("Perimeter: " + ((roomLength + roomWidth) * 2));
 		System.out.println("Volume: " + roomLength * roomWidth * roomHeight + "\n");
 		
